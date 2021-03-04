@@ -1,0 +1,25 @@
+{
+    "name": "elt-gulp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "gulp": "gulp"
+    },
+    "author": "Perepichai",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-autoprefixer": "^5.0.0",
+        "gulp-clean-css": "^3.9.3",
+        "gulp-concat": "^2.6.1",
+        "gulp-if": "^2.0.2",
+        "gulp-sass": "^3.2.1",
+        "gulp-sourcemaps": "^2.6.4"
+    },
+    "dependencies": {
+        "browser-sync": "^2.26.7",
+        "natives": "^1.1.6"
+    }
+}
