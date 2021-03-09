@@ -152,8 +152,8 @@
 
     #hero {
         width: 100%;
-        height: 50vh;
-        background-image: url("../img/BTU.png");
+        height: 70vh;
+        background-image: url("../img/PTE.png");
 
         background-size: 100%;
         /* position: relative;
@@ -167,7 +167,7 @@
         #hero {
             width: 100%;
             height: 30vh;
-            background-image: url("../img/BTU-banners-mobile.png");
+            background-image: url("../img/PTE_mobile.png");
             background-position: 50% 0%;
             background-size: 100%;
             background-repeat: no-repeat;
